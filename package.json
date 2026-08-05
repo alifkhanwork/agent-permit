@@ -1,6 +1,6 @@
 {
   "name": "@siliconvalleyglobal/agent-permit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Shared, consistent permission-prompt and policy layer for AI coding agent tools",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -44,6 +44,10 @@
     "url": "https://github.com/alifkhanwork/agent-permit/issues"
   },
   "keywords": [
+    "ai",
+    "claude",
+    "gemini",
+    "antigravity",
     "ai-agent",
     "ai-agents",
     "permissions",
